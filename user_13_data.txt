@@ -1,0 +1,47 @@
+I love	 	 	I like	 	 	I don't like	 	 	I hate	 	 
+ID	artist	name	ID	artist	name	ID	artist	name	ID	artist	name
+61464452	Baby Music	What a Wonderful World	1158202	Chris de Burgh	The Lady In Red	513360662	The Blaze	Breath	560695492	Petit Biscuit	Safe
+580705532	Ben Mazué	La mer est calme	557351992	Milo Meskens	Let You Go	492150022	Cecilia Krull	"My Life Is Going On (Cecilia Krull vs. Gavin Moss) [Música Original de la Serie de TV ""La Casa de Papel""]"	579902852	Jeff Goldblum & the Mildred Snitzer Orchestra	I Wish I Knew (How It Would Feel To Be Free) (Live)
+580705622	Ben Mazué	La mer est calme	12589578	Ebi	Ba Tou	572115812	Xxxtentacion	Arms Around You (feat. Maluma & Swae Lee)	563218852	blackwave.	GoodEnough
+11522783	Ebi	Gheseh Eshgh	11004048	Googoosh	Gahvaareh	558878512	Ot	Where Is My Love	55434611	Les Double Six	Meet Benny Bailey (Au Bout Du Fil)
+92675446	Ebi	Boghz	12482989	Ebi	Golvajeh	493802412	Tamino	Habibi	3125472	Bill Bruford	One Of A Kind - Part One
+11004511	Ebi	Pichak	543147602	Tamino	Persephone	585673912	ZAZ	Toute ma vie	12015035	Alan Lomax	No More, My Lawd
+17199784	ZAZ	Je veux	124644470	ZAZ	Si jamais j'oublie (Sur la route Live 2015)	109786870	Tim Berne	Geez (Berne)(For Craig)	16765811	Royal Scottish National Orchestra	II. Melankolia (Melancholy)
+430154832	Lilli und Lars	A Ram Sam Sam	585673922	ZAZ	Je parle	124197706	Death Grips	Hot Head	6750126	Jean-Christophe Maillard	Branle de village sur le 8ème ton
+201066	Carmen Miranda	Alô, Alô	3130696	Lords of the Underground	Here Come The Lords (Explicit)	396634882	Oddjob	Pics & l’hirondelle	200128	Various Artists	Chant himba
+7577270	Vincent Dumestre	Una musiqua	102811476	James Brown	Mother Popcorn (Single Version)	799575	Pierre-Laurent Aimard	Traditional : Yangisa	72139389	Willem Breuker	Mr. M.A.De R.In A
+6615567	Bill Frisell	One of These Days	92487480	Jakob Dietrich	Zäuerli with Schelleschötte (Ringing the Cow Bells)	3090919	Horace Silver	The Cape Verdean Blues (Remastered)	124197706	Death Grips	Hot Head
+63661146	Tatiana Samouil	Quatuor pour deux violons, alto et violoncelle en ré majeur (CFF 124): Poco lento - Allegro	95108184	Philippe Jaroussky	Varèse: Un grand sommeil noir	2269650	Tony Williams	There Comes A Time	396634882	Oddjob	Pics & l’hirondelle
+2271252	Manolo Sanlucar	El Poeta Pide A Su Amor Que Le Escriba(Canción-Bulería) (Album Version)	90389689	Bugge Wesseltoft	Dreaming	9592203	"David ""Fuze"" Fiuczynski"	Moonring Bacchanal	12677533	Men From The Niutao Community	Aliamu Ma Ana Mea Tufuga (Aliamu and His Tools)
+ 	 	 	70274599	Ali Farka Toure	Sabu Yerkoy	132493432	Theo Bleckmann	Late Green	139301695	Awa Poulo	Dimo Yaou Tata
+ 	 	 	751553	Don Ellis	Niner Two (Live At Montreux)	414426462	The Residents	This is a Man's Man's Man's World	75886504	André Minvielle	Madame Mimi (Blumdido)
+ 	 	 	77055099	Matthew Curtis	Kyrie (La Messe de Notre Dame) - Balanced Voices	70218255	Tim Hecker	Aerial Silver	85900431	Aphex Twin	CIRCLONT14 [152.97][shrymoming mix]
+ 	 	 	1499310	Golden Gate Jubilee Quartet	Preacher And The Bear	73522931	Sleepytime Gorilla Museum	The Putrid Refrain	6491411	Artemis Quartet	String Quartet No 2: Come un meccanismo di precisione
+ 	 	 	366003431	Ravi Shankar	Spring	3896792	John Zorn	Forbidden Fruit	106706224	Glenn Gould	Contrapunctus III (Remastered)
+ 	 	 	115068454	Ikuta Ryu	Kojo No Tsuki	1685672	Students' Orchestra Of The Moscow Conservatory	Liadov: Baba-Yaga	130379666	Deru	Echoes of Me
+ 	 	 	3133915	Orchestre National de Barbès	Alaoui (live)	858671	Jaco Pastorius	Come On, Come Over	797834	Laurent de Wilde	Jungle Hard Bop
+ 	 	 	3647677	Harry Partch	The Street	427341552	New York Philharmonic Orchestra	Symphony No. 9 in D Minor, WAB 109: II. Scherzo. Bewegt, lebhaft. Trio. Schnell (Live)	5593819	Dayton	Krackity-Krack (Remastered)
+ 	 	 	83947151	Totó La Momposina	Chí Chí Maní	12156755	Steve Lehman	Digital Ambush	17524173	Aka Moon	For drummers only
+ 	 	 	130863564	Supersilent	6.5	426733542	Jakob Bro	Full Moon Europa	13533692	Botch	To Our Friends in the Great White North (Demo)
+ 	 	 	2439463	The Carla Bley Band	Musique Mecanique I	81882102	Mark Guiliana	A Quote Machine	2457779	Primus	Tommy The Cat (Album Version)
+ 	 	 	125953469	Slint	Breadcrumb Trail	429108162	Paul Bley	Speak Easy	70978510	Naked City	Osaka Bondage
+ 	 	 	9056672	The Adolescents	Kids of the Blackhole	1735890	Skip James	Devil Got My Woman	17696389	Luciano Berio	Visage
+ 	 	 	78302846	Goto80	Boys Say Go	131545124	Lord Invader	Out the Fire	6183472	Karlheinz Stockhausen	Gesang Der Juenglinge
+ 	 	 	64213891	Manu Le Malin	On the Way Home	76985342	Goldie	Vanilla	429941542	Magic Malik	XP-Contrepoint mécanique à six voix
+ 	 	 	7738509	Georgette plana	La Valse Brune	63419829	Abe Schwartz	Sher Pt.2	65802269	Meredith Monk	Dusk
+ 	 	 	65341068	Krystian Zimerman	La Lugubre Gondola, S.200 no.2	95547444	Dan Deacon	Sheathed Wings	121437780	Octurn	Lhasa
+ 	 	 	 	 	 	4655700	Don Cherry	Mahakali	76145749	The Thewaprasit Ensemble	Pleng Sen Lao Na
+ 	 	 	 	 	 	79088196	Hawk House	My Mind Is The Weapon (Topic 1)	73467980	Maalim Abdi	Natamani uwa [ua]
+ 	 	 	 	 	 	10236728	Austin Peralta	Capricornus	1735890	Skip James	Devil Got My Woman
+ 	 	 	 	 	 	67121873	Björk	Crystalline (Matthew Herbert Remix)	123672654	Bob Log III	Guitar Party Power
+ 	 	 	 	 	 	2813599	Steps Ahead	Both Sides Of The Coin	76985342	Goldie	Vanilla
+ 	 	 	 	 	 	6374932	Daniel Johnston	I Had Lost My Mind	80674522	Boban Markovic	Izvorski biseri
+ 	 	 	 	 	 	65952705	Vienna Radio Symphony Orchestra, Peter Rundel & Johannes Kalitzke	Quattro Pezzi (Su Una Nota Sola) - 4th Movement	351958571	Sélébéyone	Are You in Peace
+ 	 	 	 	 	 	 	 	 	1739106	James Chance & The Contortions	Contort Yourself
+ 	 	 	 	 	 	 	 	 	105522282	Glenn Branca	Symphony #3: 2nd Movement (Excerpt)
+ 	 	 	 	 	 	 	 	 	61636056	Panzerballett	Birdland
+ 	 	 	 	 	 	 	 	 	132082546	Car Bomb	Black Blood
+ 	 	 	 	 	 	 	 	 	78626974	King Oliver	Chattanooga Stomp
+ 	 	 	 	 	 	 	 	 	445346202	Théo Ceccaldi	Amanda Dakota
+ 	 	 	 	 	 	 	 	 	12480647	Lightning Bolt	Dracula Mountain
+ 	 	 	 	 	 	 	 	 	12254142	Joy Division	Atmosphere (2011 Total Version)

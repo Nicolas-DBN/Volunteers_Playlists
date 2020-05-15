@@ -1,0 +1,59 @@
+I love	 	 	I like	 	 	I don't like	 	 	I hate	 	 
+ID	artist	name	ID	artist	name	ID	artist	name	ID	artist	name
+690413082	Janeret	Atlas	565340102	Elis Regina	Águas De Março	978993	Sergio Mendes & Brasil '66	One Note Samba / Spanish Flea (Album Version)	73696388	Jamiroquai	Too Young to Die (Remastered)
+419572732	Janeret	Rown	402893162	Stan Getz	The Girl From Ipanema	383030211	João Gilberto	Samba da Minha Terra	102953370	Tito Puente	Oye Cómo Va
+87676103	Sergio Mendes & Brasil '66	Mais Que Nada	887642	Astrud Gilberto	Agua De Beber	128099987	George Benson	Mama Wailer	698905582	Shawn Mendes	Señorita
+78673833	Joao Donato	A Rã	402893192	Stan Getz	Desafinado	1107832	Fontella Bass	Rescue Me (Single Version)	710164352	Ed Sheeran	I Don't Care
+2293076	João Gilberto	Una Mujer	71067888	Frank Sinatra	How Insensitive (Insensatez)	709637612	Yuna	Castaway	693180462	DJ Snake	Loco Contigo
+103816618	Charles Earland	Coming to You Live	682789	The Spinners	I'll Be Around	709637712	Yuna	Tiada Akhir	448893182	Orquesta Akokán	Mambo Rapidito
+77860389	Dan Hartman	Vertigo / Relight My Fire	128099987	George Benson	Mama Wailer	3613248	Bootsy Collins	I'd Rather Be with You	687128822	Celia Cruz	Oye Cómo Va
+513352572	Christopher Ledger	Lost With K (Mixed)	2283173	Chico Buarque	Essa Moca Ta Diferente	893027	Dan Hartman	I Can Dream About You	67159083	Ida Corr	Let Me Think About It
+9874315	Dennis Ferrer	Son Of Raw	704071592	Buena Vista Social Club	Murmullo	555742	Dan Hartman	Instant Replay	134525904	Lady Gaga	Million Reasons
+515511972	Folamour	Skin U're In	6237254	Willie Colón	Si Te Contara	621555982	Christian Löffler	Like Water (feat. Mohna)	16765811	Royal Scottish National Orchestra	II. Melankolia (Melancholy)
+515511982	Folamour	"Roue arrière ""Rue de la Ré"""	647353102	Daigo Hanada	Ouka	78673821	Sergio Mendes & Brasil '66	Bim-Bom	6750126	Jean-Christophe Maillard	Branle de village sur le 8ème ton
+690232992	Minxz	Goya	668969162	Eluvium	In a Sense	961546	Beny More	Que Bueno Baila Usted	124197706	Death Grips	Hot Head
+2269650	Tony Williams	There Comes A Time	493075222	Christian Löffler	Myiami	95174690	Dennis Ferrer	Sandcastles	109786870	Tim Berne	Geez (Berne)(For Craig)
+5593819	Dayton	Krackity-Krack (Remastered)	96495530	Christian Löffler	York (Original Mix)	639466322	Dennis Ferrer	Transitions / I'll House U (feat. Keyo) [Accapella] (Mixed)	799575	Pierre-Laurent Aimard	Traditional : Yangisa
+79088196	Hawk House	My Mind Is The Weapon (Topic 1)	493075252	Christian Löffler	Neo	551814832	Alexandra Streliski	Plus tôt	12677533	Men From The Niutao Community	Aliamu Ma Ana Mea Tufuga (Aliamu and His Tools)
+ 	 	 	140489289	Max Cooper	Trust (Christian Löffler Revision)	621555952	Christian Löffler	Ry	92487480	Jakob Dietrich	Zäuerli with Schelleschötte (Ringing the Cow Bells)
+ 	 	 	621555992	Christian Löffler	Refu	493075232	Christian Löffler	Haul	75886504	André Minvielle	Madame Mimi (Blumdido)
+ 	 	 	493055392	Christian Löffler	Pigment (Parra for Cuva Piano Reinterpretation)	493075272	Christian Löffler	Lid	132493432	Theo Bleckmann	Late Green
+ 	 	 	447159112	Sly & The Family Stone	Remember Who You Are	493018662	Christian Löffler	A Forest	85900431	Aphex Twin	CIRCLONT14 [152.97][shrymoming mix]
+ 	 	 	3125472	Bill Bruford	One Of A Kind - Part One	93029822	Christian Löffler	Blind	516627482	Radio-Symphonieorchester Wien	4 Pezzi (Su una nota sola): IV. —
+ 	 	 	541624832	James Brown	Mother Popcorn (Pt. 1)	741081	The Meters	Stop That Train	7738509	Georgette plana	La Valse Brune
+ 	 	 	3489376	Horace Silver Quintet	The Cape Verdean Blues	674675042	The Meters	Cardova	6374932	Daniel Johnston	I Had Lost My Mind
+ 	 	 	139301695	Awa Poulo	Dimo Yaou Tata	55434611	Les Double Six	Meet Benny Bailey (Au Bout Du Fil)	427341552	New York Philharmonic Orchestra	Symphony No. 9 in D Minor, WAB 109: II. Scherzo. Bewegt, lebhaft. Trio. Schnell (Live)
+ 	 	 	9592203	"David ""Fuze"" Fiuczynski"	Moonring Bacchanal	12015035	Alan Lomax	No More, My Lawd	70978510	Naked City	Osaka Bondage
+ 	 	 	95108184	Philippe Jaroussky	Varèse: Un grand sommeil noir	67035154	London Symphony Orchestra	Symphonie Fantastique, Op. 14 - Fifth Movement: Songe D'Une Nuit De Sabbat	17696389	Luciano Berio	Visage
+ 	 	 	2271252	Manolo Sanlucar	El Poeta Pide A Su Amor Que Le Escriba(Canción-Bulería) (Album Version)	200128	Various Artists	Chant himba	6183472	Karlheinz Stockhausen	Gesang Der Juenglinge
+ 	 	 	797834	Laurent de Wilde	Jungle Hard Bop	3130696	Lords of the Underground	Here Come The Lords (Explicit)	429941542	Magic Malik	XP-Contrepoint mécanique à six voix
+ 	 	 	17524173	Aka Moon	For drummers only	414426462	The Residents	This is a Man's Man's Man's World	77055099	Matthew Curtis	Kyrie (La Messe de Notre Dame) - Balanced Voices
+ 	 	 	426733542	Jakob Bro	Full Moon Europa	70218255	Tim Hecker	Aerial Silver	65802269	Meredith Monk	Dusk
+ 	 	 	81882102	Mark Guiliana	A Quote Machine	704069822	Ali Farka Toure	Sabu Yerkoy	1499310	Golden Gate Jubilee Quartet	Preacher And The Bear
+ 	 	 	1735890	Skip James	Devil Got My Woman	65341068	Krystian Zimerman	La Lugubre Gondola, S.200 no.2	76145749	The Thewaprasit Ensemble	Pleng Sen Lao Na
+ 	 	 	7314318	Le Mystère Des Voix Bulgares	Zableyalo Mi Agantze (Album Version)	64213891	Manu Le Malin	On the Way Home	73467980	Maalim Abdi	Natamani uwa [ua]
+ 	 	 	83947151	Totó La Momposina	Chí Chí Maní	78302846	Goto80	Boys Say Go	366003431	Ravi Shankar	Spring
+ 	 	 	10236728	Austin Peralta	Capricornus	12254142	Joy Division	Atmosphere (2011 Total Version)	63419829	Abe Schwartz	Sher Pt.2
+ 	 	 	2813599	Steps Ahead	Both Sides Of The Coin	2457779	Primus	Tommy The Cat (Album Version)	78302846	Goto80	Boys Say Go
+ 	 	 	125953469	Slint	Breadcrumb Trail	12156755	Steve Lehman	Digital Ambush	 	 	 
+ 	 	 	6615567	Bill Frisell	One of These Days	429108162	Paul Bley	Speak Easy	 	 	 
+ 	 	 	9056672	The Adolescents	Kids of the Blackhole	201066	Carmen Miranda	Alô, Alô	 	 	 
+ 	 	 	12254142	Joy Division	Atmosphere (2011 Total Version)	121437780	Octurn	Lhasa	 	 	 
+ 	 	 	 	 	 	131545124	Lord Invader	Out the Fire	 	 	 
+ 	 	 	 	 	 	115068454	Ikuta Ryu	Kojo No Tsuki	 	 	 
+ 	 	 	 	 	 	76985342	Goldie	Vanilla	 	 	 
+ 	 	 	 	 	 	123672654	Bob Log III	Guitar Party Power	 	 	 
+ 	 	 	 	 	 	80674522	Boban Markovic	Izvorski biseri	 	 	 
+ 	 	 	 	 	 	3133915	Orchestre National de Barbès	Alaoui (live)	 	 	 
+ 	 	 	 	 	 	351958571	Sélébéyone	Are You in Peace	 	 	 
+ 	 	 	 	 	 	1739106	James Chance & The Contortions	Contort Yourself	 	 	 
+ 	 	 	 	 	 	105522282	Glenn Branca	Symphony #3: 2nd Movement (Excerpt)	 	 	 
+ 	 	 	 	 	 	3647677	Harry Partch	The Street	 	 	 
+ 	 	 	 	 	 	95547444	Dan Deacon	Sheathed Wings	 	 	 
+ 	 	 	 	 	 	4655700	Don Cherry	Mahakali	 	 	 
+ 	 	 	 	 	 	132082546	Car Bomb	Black Blood	 	 	 
+ 	 	 	 	 	 	78626974	King Oliver	Chattanooga Stomp	 	 	 
+ 	 	 	 	 	 	445346202	Théo Ceccaldi	Amanda Dakota	 	 	 
+ 	 	 	 	 	 	12480647	Lightning Bolt	Dracula Mountain	 	 	 
+ 	 	 	 	 	 	63661146	Tatiana Samouil	Quatuor pour deux violons, alto et violoncelle en ré majeur (CFF 124): Poco lento - Allegro	 	 	 
+ 	 	 	 	 	 	6374932	Daniel Johnston	I Had Lost My Mind	 	 	 

@@ -1,0 +1,36 @@
+I love	 	 	I like	 	 	I don't like	 	 	I hate	 	 
+ID	artist	name	ID	artist	name	ID	artist	name	ID	artist	name
+132934216	GERARD BASTE	Trop gros	63311029	Ganja White Night	Bubblegum	698747192	Nekfeu	Alunissons	353553671	Unity Family	Madame Marianne
+132934222	GERARD BASTE	Hellfest	106977098	Ganja White Night	Champagne	633842522	Dub Inc	À travers les vagues	39938581	Sound Effects	Animal / Peregrine Falcon (Falco pellegrino)
+10237163	TTC	Dans Le Club	3131899	Guru	Lifesaver	706047232	2pillz	A Little Bit of You	638492872	Taïro	Me femme fume
+500012852	Guru	Introduction	120383582	Militantes del Climax	Díada	100432720	George Duke	Reach Out	495564412	Protoje	No Guarantee
+500012882	Guru	Transit Ride	120383592	Militantes del Climax	El Kongo	480447482	Stepart	Starlight	114605650	Radium	Fuck The 90's (Original Mix)
+565666142	Militantes del Climax	El Huevo	1012602	Herbie Hancock	Sly	131242972	Jah9	Greatest Threat to the Status Quo (feat. Vaughn 'Akae Beka' Benjamin)	16765811	Royal Scottish National Orchestra	II. Melankolia (Melancholy)
+120383574	Militantes del Climax	Sin Permiso	1013456	Herbie Hancock	Vein Melter	479510692	Danakil	Est-ce que c'est normal ?	124197706	Death Grips	Hot Head
+120383588	Militantes del Climax	Mercado de Pases	578018252	Fikir Amlak & King Alpha	Hear Me Chant	3125472	Bill Bruford	One Of A Kind - Part One	430154832	Lilli und Lars	A Ram Sam Sam
+699023032	Al'Tarba	She Makes Me Feel	3965723	Laurent Garnier	Barbiturik Blues	95108184	Philippe Jaroussky	Varèse: Un grand sommeil noir	17696389	Luciano Berio	Visage
+313639	Chinese Man	Washington Square	3965727	Laurent Garnier	Controlling the House pt2	430154832	Lilli und Lars	A Ram Sam Sam	7314318	Le Mystère Des Voix Bulgares	Zableyalo Mi Agantze (Album Version)
+313641	Chinese Man	You suck me	469166092	Tsunami Wazahari	Revelation Dub	13533692	Botch	To Our Friends in the Great White North (Demo)	132082546	Car Bomb	Black Blood
+1015296	Herbie Hancock	Chameleon	6706210	Alpha & Omega	Rastafari	427341552	New York Philharmonic Orchestra	Symphony No. 9 in D Minor, WAB 109: II. Scherzo. Bewegt, lebhaft. Trio. Schnell (Live)	7738509	Georgette plana	La Valse Brune
+88911265	Kza	Le Troublant Acid	79175755	Capital Letters	Smoking My Ganja (Rootikal Deep Riddim Dubwise)	201066	Carmen Miranda	Alô, Alô	 	 	 
+4901084	Tsunami Wazahari	Nippon Takeover (HardStepper Mix)	486359802	Pupajim	Business of War	78626974	King Oliver	Chattanooga Stomp	 	 	 
+65392266	Digitaldubs feat. Ranking Joe	Fyah Bun Dem	462864852	Vibronics	Rise Up	64213891	Manu Le Malin	On the Way Home	 	 	 
+354703421	Biga Ranx	My Face	134066070	Axel Thesleff	Bad Karma (Radio Edit)	 	 	 	 	 	 
+486394882	Stepart	Gangsta Riot	74214049	L-Vis 1990	The Pit	 	 	 	 	 	 
+486394902	Stepart	Non Stop	113849218	Atili	Sweet Like Sugar	 	 	 	 	 	 
+3018457	Kanka	Make It This Time	1124985	Black Uhuru	Sinsemilla (Album Version)	 	 	 	 	 	 
+83922953	George Benson	The Ghetto	13404619	Max Romeo	One Step Forward (Single Version)	 	 	 	 	 	 
+98838908	Modeselektor	Negativity	313640	Chinese Man	I've got that tune	 	 	 	 	 	 
+533286412	Manudigital	Only Just Begun	575410952	Giorgia Angiuli	Inspiration	 	 	 	 	 	 
+86844283	Lionel Ferbos	At the Jazz Band Ball	597663272	Atili	Mr Diddy	 	 	 	 	 	 
+122730694	Iseo & Dodosound	Freedom	5974925	Trombone Shorty	Backatown	 	 	 	 	 	 
+85900431	Aphex Twin	CIRCLONT14 [152.97][shrymoming mix]	5974921	Trombone Shorty	Hurricane Season	 	 	 	 	 	 
+ 	 	 	62939810	Junior Reid	Jungle Rock	 	 	 	 	 	 
+ 	 	 	55434611	Les Double Six	Meet Benny Bailey (Au Bout Du Fil)	 	 	 	 	 	 
+ 	 	 	3130696	Lords of the Underground	Here Come The Lords (Explicit)	 	 	 	 	 	 
+ 	 	 	414426462	The Residents	This is a Man's Man's Man's World	 	 	 	 	 	 
+ 	 	 	797834	Laurent de Wilde	Jungle Hard Bop	 	 	 	 	 	 
+ 	 	 	5593819	Dayton	Krackity-Krack (Remastered)	 	 	 	 	 	 
+ 	 	 	351958571	Sélébéyone	Are You in Peace	 	 	 	 	 	 
+ 	 	 	10236728	Austin Peralta	Capricornus	 	 	 	 	 	 
+ 	 	 	2439463	The Carla Bley Band	Musique Mecanique I	 	 	 	 	 	 

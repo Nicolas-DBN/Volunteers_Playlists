@@ -1,0 +1,79 @@
+I love	 	 	I like	 	 	I don't like	 	 	I hate	 	 
+ID	artist	name	ID	artist	name	ID	artist	name	ID	artist	name
+515750802	Yussef Dayes	Love Is the Message	16483790	Robert Glasper	Afro Blue	561856742	Lady Gaga	Shallow	546875592	Angèle	Tout oublier
+486780942	August Greene	Let Go	558046892	Badbadnotgood	Tried	545515842	Maisha	Kaa	139897453	Spoon	Hot Thoughts
+89211011	Mighty Ryeders	Evil Vibrations	483570562	Robert Glasper Experiment	No One Like You (KAYTRANADA Remix)	393885392	Joe Armon-Jones	SE Discotheque	556338862	Navii	New York 90
+725850	Red Hot Chili Peppers	Under the Bridge	72004975	Axel Boman	Can't Find It	572025482	Richard Spaven	Rescue	103823446	Navii	J'écoute du Miles Davis (Radio Version)
+122340584	Alex Dolby	Calypso (Alex Dolby's Riviera 90s Remix)	504930752	Axel Boman	Forgot About You (Piano Version)	72004981	Axel Boman	Hello	121440390	Navii	Turbulences
+6865375	Thievery Corporation	Amerimacka	515750802	Yussef Dayes	Love Is the Message	68903082	Julien Doré	Paris-Seychelles	125333440	Navii	Eblouie par la nuit
+65530576	DJ Koze	Nices Wölkchen (feat. Apparat)	101565922	Marcel Fengler	Jaz (Kosi Edit) (mixed)	1146872	Soundgarden	Black Hole Sun	95108184	Philippe Jaroussky	Varèse: Un grand sommeil noir
+3668899	DJ Koze vs Sid LeRock	Naked (DJ Koze Remix)	14594500	Jill Scott	Golden	80870180	Klangkarussell	Eistee aus der Dose	92487480	Jakob Dietrich	Zäuerli with Schelleschötte (Ringing the Cow Bells)
+3668907	Malaria! vs Chicks On Speed	Kaltes Klares Wasser (DJ Koze & The Tease Rmx)	67929154	Kendrick Lamar	Bitch, Don’t Kill My Vibe	98958712	Paul Kalkbrenner	Kruppzeug (Fritz Kalkbrenner Remix)	1739106	James Chance & The Contortions	Contort Yourself
+67306381	Floorplan	Never Grow Old	12275893	Metronomy	The Bay (Erol Alkan's Extended Rework)	53067871	Adriatique	Deeper Love	85900431	Aphex Twin	CIRCLONT14 [152.97][shrymoming mix]
+97206068	Kendrick Lamar	Alright	3129616	Air	Playground Love (With Gordon Tracks)	7034830	The Dave Brubeck Quartet	Blue Rondo à la Turk	123672654	Bob Log III	Guitar Party Power
+130878816	Yussef Kamaal	Joint 17	70562294	Parov Stelar	Keep On Dancing	963148	CAKE	The Distance	430154832	Lilli und Lars	A Ram Sam Sam
+464226482	DJ Koze	Pick Up	869922	Pearl Jam	Light Years	3207238	Jimmy Smith	Jumpin' The Blues (Remastered/Rudy Van Gelder Edition)	70218255	Tim Hecker	Aerial Silver
+95401428	Maan	Trow	725845	Red Hot Chili Peppers	Blood Sugar Sex Magik	94488816	Placebo	I Know	105522282	Glenn Branca	Symphony #3: 2nd Movement (Excerpt)
+110958630	Opeth	Ending Credits (Remixed)	78110828	Part Company	Out of Egypt	113941818	Placebo	For What It's Worth (MTV Unplugged)	 	 	 
+110958626	Opeth	Hope Leaves (Remixed)	115426406	Parov Stelar	Warm Inside	76104888	DJ Koze	Amygdala (Roman Flügel Remix)	 	 	 
+12317810	Roy Ayers	Liquid Love	115426398	Parov Stelar	The One	72397040	DJ Koze	Magical Boy (Instrumental)	 	 	 
+484522452	Modeselektor	Kalif Storch	536484	MGMT	Electric Feel	3668902	Matias Aguayo	Minimal (DJ Koze Mix)	 	 	 
+547353252	Yussef Dayes	Blacked Out	98817702	Laurent Garnier	ENCHANTé (Original Version)	107048292	Isolée	Favouride	 	 	 
+5909577	Kink	Existence	98817712	Laurent Garnier	Bang (The Underground Doesn't Stop) (Original Version)	373806831	DJ Boring	Sunday Avenue (Original Mix)	 	 	 
+542613862	Mathame	Nothing Around Us	94488794	Placebo	Special Needs	122376940	Chicago	Street Player	 	 	 
+108542914	Mano Le Tough	I See Myself in You	87609403	Moderat	Bad Kingdom (DJ Koze Remix)	144953294	Al Hirt	Mack the Knife	 	 	 
+2275933	Roy Ayers Ubiquity	Everybody Loves The Sunshine	87609409	Mount Kimbie	Made to Stray (DJ Koze Remix)	415866642	Kink	Soar	 	 	 
+2647587	Two Man Sound	Que tal America	87609413	Caribou	Found Out (DJ Koze Remix)	67929154	Kendrick Lamar	Bitch, Don’t Kill My Vibe	 	 	 
+137395708	Phil Moffa	Dodecahedron	87609425	Ada	Faith (DJ Koze's Grungerwomen Remix)	97206064	Kendrick Lamar	These Walls	 	 	 
+393518672	Herbie Hancock	The Maze	65533529	DJ Koze	Mariposa	488470642	Dominik Eulberg	The Space Between Us (Original Mix)	 	 	 
+12254142	Joy Division	Atmosphere (2011 Total Version)	107048290	Isolée	Floripa	375518511	Ohio Players	Funky Worm	 	 	 
+ 	 	 	377932401	Isolée	Pisco	138274443	DJ Hell	U Can Dance : U Can Dance (Carl Craig Remix V. 2)	 	 	 
+ 	 	 	103550196	Axel Boman	1979	568488802	Adriatique	Random Notes Orchestra	 	 	 
+ 	 	 	122340582	Alex Dolby	Calypso	131545124	Lord Invader	Out the Fire	 	 	 
+ 	 	 	138247605	DJ Boring	Winona	78302846	Goto80	Boys Say Go	 	 	 
+ 	 	 	935741	Basement Jaxx	Where's Your Head At	2813599	Steps Ahead	Both Sides Of The Coin	 	 	 
+ 	 	 	68944525	Connan Mockasin	Forever Dolphin Love	10236728	Austin Peralta	Capricornus	 	 	 
+ 	 	 	68945609	Connan Mockasin	Forever Dolphin Love (Erol Alkan Rework)	1499310	Golden Gate Jubilee Quartet	Preacher And The Bear	 	 	 
+ 	 	 	963193	Al Hirt	The Girl from Ipanema	95108184	Philippe Jaroussky	Varèse: Un grand sommeil noir	 	 	 
+ 	 	 	906678	Quincy Jones	Summer In The City	2439463	The Carla Bley Band	Musique Mecanique I	 	 	 
+ 	 	 	469491992	Chet Baker	The Bird From Kapingamarangi	67121873	Björk	Crystalline (Matthew Herbert Remix)	 	 	 
+ 	 	 	1143625	The Cure	Boys Don't Cry	6615567	Bill Frisell	One of These Days	 	 	 
+ 	 	 	536481	MGMT	Time to Pretend	396634882	Oddjob	Pics & l’hirondelle	 	 	 
+ 	 	 	103182508	Kink	Hand Made (Dub Mix)	65802269	Meredith Monk	Dusk	 	 	 
+ 	 	 	127527325	DJ Koze	I Want to Sleep	17524173	Aka Moon	For drummers only	 	 	 
+ 	 	 	3668898	Matthew Dear	Elementary Lover (DJ Koze Remix)	73467980	Maalim Abdi	Natamani uwa [ua]	 	 	 
+ 	 	 	505957002	Baba Stiltz	Showtime	7314318	Le Mystère Des Voix Bulgares	Zableyalo Mi Agantze (Album Version)	 	 	 
+ 	 	 	472303422	Armonica	Ngeke (Andhim Remix)	4655700	Don Cherry	Mahakali	 	 	 
+ 	 	 	454314362	Rejjie Snow	Egyptian Luvr (feat. Aminé)	2269650	Tony Williams	There Comes A Time	 	 	 
+ 	 	 	446699712	Kali Uchis	After The Storm	6374932	Daniel Johnston	I Had Lost My Mind	 	 	 
+ 	 	 	381458141	Terrence Parker	Somethin' Here (Dub Mix)	65341068	Krystian Zimerman	La Lugubre Gondola, S.200 no.2	 	 	 
+ 	 	 	97206058	Kendrick Lamar	For Free? (Interlude)	130379666	Deru	Echoes of Me	 	 	 
+ 	 	 	97206072	Kendrick Lamar	Momma	 	 	 	 	 	 
+ 	 	 	99272946	Stephan Bodzin	Sputnik	 	 	 	 	 	 
+ 	 	 	2122740	Erykah Badu	Didn't Cha Know (Album Version)	 	 	 	 	 	 
+ 	 	 	128412285	Curtis Mayfield	Love Me, Love Me Now	 	 	 	 	 	 
+ 	 	 	74494615	Herbie Hancock	Butterfly	 	 	 	 	 	 
+ 	 	 	489170932	Gui Boratto	618	 	 	 	 	 	 
+ 	 	 	15583799	Demon	You Are My High	 	 	 	 	 	 
+ 	 	 	519484662	EDo. G, DJ Premier, Pete Rock	Sayin' Somethin' (Vocal Version)	 	 	 	 	 	 
+ 	 	 	12480647	Lightning Bolt	Dracula Mountain	 	 	 	 	 	 
+ 	 	 	3090919	Horace Silver	The Cape Verdean Blues (Remastered)	 	 	 	 	 	 
+ 	 	 	414426462	The Residents	This is a Man's Man's Man's World	 	 	 	 	 	 
+ 	 	 	132082546	Car Bomb	Black Blood	 	 	 	 	 	 
+ 	 	 	125953469	Slint	Breadcrumb Trail	 	 	 	 	 	 
+ 	 	 	351958571	Sélébéyone	Are You in Peace	 	 	 	 	 	 
+ 	 	 	80674522	Boban Markovic	Izvorski biseri	 	 	 	 	 	 
+ 	 	 	201066	Carmen Miranda	Alô, Alô	 	 	 	 	 	 
+ 	 	 	2271252	Manolo Sanlucar	El Poeta Pide A Su Amor Que Le Escriba(Canción-Bulería) (Album Version)	 	 	 	 	 	 
+ 	 	 	63419829	Abe Schwartz	Sher Pt.2	 	 	 	 	 	 
+ 	 	 	3130696	Lords of the Underground	Here Come The Lords (Explicit)	 	 	 	 	 	 
+ 	 	 	121437780	Octurn	Lhasa	 	 	 	 	 	 
+ 	 	 	67035154	London Symphony Orchestra	Symphonie Fantastique, Op. 14 - Fifth Movement: Songe D'Une Nuit De Sabbat	 	 	 	 	 	 
+ 	 	 	799575	Pierre-Laurent Aimard	Traditional : Yangisa	 	 	 	 	 	 
+ 	 	 	76985342	Goldie	Vanilla	 	 	 	 	 	 
+ 	 	 	61636056	Panzerballett	Birdland	 	 	 	 	 	 
+ 	 	 	78626974	King Oliver	Chattanooga Stomp	 	 	 	 	 	 
+ 	 	 	1685672	Students' Orchestra Of The Moscow Conservatory	Liadov: Baba-Yaga	 	 	 	 	 	 
+ 	 	 	12156755	Steve Lehman	Digital Ambush	 	 	 	 	 	 
+ 	 	 	427341552	New York Philharmonic Orchestra	Symphony No. 9 in D Minor, WAB 109: II. Scherzo. Bewegt, lebhaft. Trio. Schnell (Live)	 	 	 	 	 	 
+ 	 	 	2457779	Primus	Tommy The Cat (Album Version)	 	 	 	 	 	 
